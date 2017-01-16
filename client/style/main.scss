@@ -1,0 +1,22 @@
+// Scaffolding
+html {
+  font-size: 100%;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+// Stick Footer */
+.wrapper {
+  height: auto;
+  margin: 0 auto;
+  margin-bottom: 100px;
+  min-height: 100%;
+}
+
+.site-footer,
+.push {
+  height: 100px;
+}
